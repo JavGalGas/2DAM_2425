@@ -1,0 +1,5 @@
+module Ejemplo
+typeinfo appEjemplo.qmltypes
+prefer :/qt/qml/Ejemplo/
+Main 1.0 Main.qml
+

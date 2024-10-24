@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/javgalgas/Desktop/2DAM_2425/DI/TEMA_6y7/Ejemplo
+-cmake-output
+-output-file
+C:/Users/javgalgas/Desktop/2DAM_2425/DI/TEMA_6y7/Ejemplo/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/qml_imports/appEjemplo_conf.cmake
+-importPath
+C:/Users/javgalgas/Desktop/2DAM_2425/DI/TEMA_6y7/Ejemplo/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Ejemplo
+-importPath
+C:/Users/javgalgas/Desktop/2DAM_2425/DI/TEMA_6y7/Ejemplo/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.7.2/mingw_64/./qml
+-qrcFiles
+C:/Users/javgalgas/Desktop/2DAM_2425/DI/TEMA_6y7/Ejemplo/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/qmake_Ejemplo.qrc
+C:/Users/javgalgas/Desktop/2DAM_2425/DI/TEMA_6y7/Ejemplo/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/appEjemplo_raw_qml_0.qrc

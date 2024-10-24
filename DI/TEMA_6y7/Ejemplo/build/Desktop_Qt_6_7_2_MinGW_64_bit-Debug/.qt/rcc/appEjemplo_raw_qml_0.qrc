@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Ejemplo/">
+    <file alias="Main.qml">C:/Users/javgalgas/Desktop/2DAM_2425/DI/TEMA_6y7/Ejemplo/Main.qml</file>
+  </qresource>
+</RCC>
+
