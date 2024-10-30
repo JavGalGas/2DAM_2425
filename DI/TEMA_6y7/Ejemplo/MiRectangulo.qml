@@ -8,4 +8,36 @@ Rectangle {
     height: 100
     color: "#ff0000"
     border.width: 2
+    states: [
+        State {
+            name: "activado"
+            when: rectangle.activado == true
+
+            PropertyChanges {
+                target: rectangle
+                color: "#322996"
+            }
+        }
+    ]
+    transitions: [
+        Transition {
+            id: transition
+            ParallelAnimation {
+                SequentialAnimation {
+                    PauseAnimation {
+                        duration: 0
+                    }
+
+                    PropertyAnimation {
+                        target: rectangle
+                        property: "color"
+                        duration: 1000
+                    }
+                }
+            }
+            to: "*"
+            from: "*"
+        }
+    ]
+    property bool activado: false
 }
