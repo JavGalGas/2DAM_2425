@@ -1,0 +1,7 @@
+module EjQTExRecJGG
+typeinfo appEjQTExRecJGG.qmltypes
+prefer :/qt/qml/EjQTExRecJGG/
+Main 1.0 Main.qml
+View 1.0 View.qml
+Formulario 1.0 Formulario.qml
+

@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/EjQTExRecJGG/">
+    <file alias="Main.qml">D:/javgalgas/2DAM_2425/DI/EjQTExRecJGG/Main.qml</file>
+    <file alias="View.qml">D:/javgalgas/2DAM_2425/DI/EjQTExRecJGG/View.qml</file>
+    <file alias="Formulario.qml">D:/javgalgas/2DAM_2425/DI/EjQTExRecJGG/Formulario.qml</file>
+    <file alias="Factura.qml">D:/javgalgas/2DAM_2425/DI/EjQTExRecJGG/Factura.qml</file>
+  </qresource>
+</RCC>
+

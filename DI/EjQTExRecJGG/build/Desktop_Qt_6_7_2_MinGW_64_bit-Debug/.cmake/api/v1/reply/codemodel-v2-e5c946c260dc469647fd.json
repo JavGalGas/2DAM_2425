@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-697a3618e11825c0b767.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "EjQTExRecJGG",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-9b0e8a8d442186c6f398.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-72f48997f27b5d277959.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-762b6b3e88a1843158ec.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-cbafc1a6b561346ab50a.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEjQTExRecJGG::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEjQTExRecJGG-Debug-16c5862cbacfdecda76b.json",
+					"name" : "appEjQTExRecJGG",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEjQTExRecJGG_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEjQTExRecJGG_autogen-Debug-612cf7b76e1888430dce.json",
+					"name" : "appEjQTExRecJGG_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEjQTExRecJGG_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEjQTExRecJGG_autogen_timestamp_deps-Debug-c5cecda0d162bde9b4cd.json",
+					"name" : "appEjQTExRecJGG_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEjQTExRecJGG_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEjQTExRecJGG_qmlimportscan-Debug-b198b7a80138d1c85768.json",
+					"name" : "appEjQTExRecJGG_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEjQTExRecJGG_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEjQTExRecJGG_qmllint-Debug-101b47471cae4d08aad0.json",
+					"name" : "appEjQTExRecJGG_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEjQTExRecJGG_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEjQTExRecJGG_qmllint_json-Debug-88f920566bfab926d22f.json",
+					"name" : "appEjQTExRecJGG_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEjQTExRecJGG_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEjQTExRecJGG_qmllint_module-Debug-3a8a95487980d2acd162.json",
+					"name" : "appEjQTExRecJGG_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEjQTExRecJGG_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEjQTExRecJGG_qmltyperegistration-Debug-71dd4eb0054eb1041347.json",
+					"name" : "appEjQTExRecJGG_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appEjQTExRecJGG_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appEjQTExRecJGG_tooling-Debug-a0def22e65462ed570d2.json",
+					"name" : "appEjQTExRecJGG_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/javgalgas/2DAM_2425/DI/EjQTExRecJGG/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "D:/javgalgas/2DAM_2425/DI/EjQTExRecJGG"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

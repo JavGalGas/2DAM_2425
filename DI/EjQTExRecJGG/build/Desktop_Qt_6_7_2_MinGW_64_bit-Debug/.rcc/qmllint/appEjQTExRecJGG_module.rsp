@@ -1,0 +1,10 @@
+-I
+D:/javgalgas/2DAM_2425/DI/EjQTExRecJGG/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug
+-I
+C:/Qt/6.7.2/mingw_64/./qml
+--resource
+D:/javgalgas/2DAM_2425/DI/EjQTExRecJGG/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/qmake_EjQTExRecJGG.qrc
+--resource
+D:/javgalgas/2DAM_2425/DI/EjQTExRecJGG/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/appEjQTExRecJGG_raw_qml_0.qrc
+--module
+EjQTExRecJGG
